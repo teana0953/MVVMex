@@ -1,0 +1,27 @@
+C:\Users\Pavel\Documents\WPFBook\Chapter07\CH07\CH07.RoutedCommands\bin\Debug\CH07.RoutedCommands.exe.config
+C:\Users\Pavel\Documents\WPFBook\Chapter07\CH07\CH07.RoutedCommands\bin\Debug\CH07.RoutedCommands.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter07\CH07\CH07.RoutedCommands\bin\Debug\CH07.RoutedCommands.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter07\CH07\CH07.RoutedCommands\obj\x86\Debug\MainWindow.baml
+C:\Users\Pavel\Documents\WPFBook\Chapter07\CH07\CH07.RoutedCommands\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter07\CH07\CH07.RoutedCommands\obj\x86\Debug\App.g.cs
+C:\Users\Pavel\Documents\WPFBook\Chapter07\CH07\CH07.RoutedCommands\obj\x86\Debug\CH07.RoutedCommands_MarkupCompile.cache
+C:\Users\Pavel\Documents\WPFBook\Chapter07\CH07\CH07.RoutedCommands\obj\x86\Debug\CH07.RoutedCommands.g.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter07\CH07\CH07.RoutedCommands\obj\x86\Debug\CH07.RoutedCommands.Properties.Resources.resources
+C:\Users\Pavel\Documents\WPFBook\Chapter07\CH07\CH07.RoutedCommands\obj\x86\Debug\CH07.RoutedCommands.csproj.GenerateResource.Cache
+C:\Users\Pavel\Documents\WPFBook\Chapter07\CH07\CH07.RoutedCommands\obj\x86\Debug\CH07.RoutedCommands.exe
+C:\Users\Pavel\Documents\WPFBook\Chapter07\CH07\CH07.RoutedCommands\obj\x86\Debug\CH07.RoutedCommands.pdb
+C:\Users\Pavel\Documents\WPFBook\Chapter07\CH07\CH07.RoutedCommands\obj\x86\Debug\CH07.RoutedCommands_MarkupCompile.lref
+C:\Users\tina.liang\Documents\Visual Studio 2015\Projects\WPF\MVVM\MVVMex\CH07.RoutedCommands\bin\Debug\CH07.RoutedCommands.exe.config
+C:\Users\tina.liang\Documents\Visual Studio 2015\Projects\WPF\MVVM\MVVMex\CH07.RoutedCommands\bin\Debug\CH07.RoutedCommands.exe
+C:\Users\tina.liang\Documents\Visual Studio 2015\Projects\WPF\MVVM\MVVMex\CH07.RoutedCommands\bin\Debug\CH07.RoutedCommands.pdb
+C:\Users\tina.liang\Documents\Visual Studio 2015\Projects\WPF\MVVM\MVVMex\CH07.RoutedCommands\obj\x86\Debug\CH07.RoutedCommands.csprojResolveAssemblyReference.cache
+C:\Users\tina.liang\Documents\Visual Studio 2015\Projects\WPF\MVVM\MVVMex\CH07.RoutedCommands\obj\x86\Debug\MainWindow.g.cs
+C:\Users\tina.liang\Documents\Visual Studio 2015\Projects\WPF\MVVM\MVVMex\CH07.RoutedCommands\obj\x86\Debug\App.g.cs
+C:\Users\tina.liang\Documents\Visual Studio 2015\Projects\WPF\MVVM\MVVMex\CH07.RoutedCommands\obj\x86\Debug\CH07.RoutedCommands_MarkupCompile.cache
+C:\Users\tina.liang\Documents\Visual Studio 2015\Projects\WPF\MVVM\MVVMex\CH07.RoutedCommands\obj\x86\Debug\CH07.RoutedCommands_MarkupCompile.lref
+C:\Users\tina.liang\Documents\Visual Studio 2015\Projects\WPF\MVVM\MVVMex\CH07.RoutedCommands\obj\x86\Debug\MainWindow.baml
+C:\Users\tina.liang\Documents\Visual Studio 2015\Projects\WPF\MVVM\MVVMex\CH07.RoutedCommands\obj\x86\Debug\CH07.RoutedCommands.g.resources
+C:\Users\tina.liang\Documents\Visual Studio 2015\Projects\WPF\MVVM\MVVMex\CH07.RoutedCommands\obj\x86\Debug\CH07.RoutedCommands.Properties.Resources.resources
+C:\Users\tina.liang\Documents\Visual Studio 2015\Projects\WPF\MVVM\MVVMex\CH07.RoutedCommands\obj\x86\Debug\CH07.RoutedCommands.csproj.GenerateResource.Cache
+C:\Users\tina.liang\Documents\Visual Studio 2015\Projects\WPF\MVVM\MVVMex\CH07.RoutedCommands\obj\x86\Debug\CH07.RoutedCommands.exe
+C:\Users\tina.liang\Documents\Visual Studio 2015\Projects\WPF\MVVM\MVVMex\CH07.RoutedCommands\obj\x86\Debug\CH07.RoutedCommands.pdb
