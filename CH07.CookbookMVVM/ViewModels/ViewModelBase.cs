@@ -12,7 +12,7 @@ namespace CH07.CookbookMVVM.ViewModels
     }
 
     // generic way
-    public abstract class ViewModeBase<TModel> : ViewModelBase
+    public abstract class ViewModelBase<TModel> : ViewModelBase
     {
         TModel _model;      // saves duplicating properies from the model. connected view can bypass the viewModel and go straight for the model
 

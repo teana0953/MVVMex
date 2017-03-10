@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH07.RoutedCommands", "CH07
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH07.CookbookMVVM", "CH07.CookbookMVVM\CH07.CookbookMVVM.csproj", "{F68B8CF2-2E90-44EB-A065-929A20A1212A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogReader", "BlogReader\BlogReader.csproj", "{102B5477-9F97-4694-A21F-368323368B86}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,6 +31,14 @@ Global
 		{F68B8CF2-2E90-44EB-A065-929A20A1212A}.Release|Any CPU.Build.0 = Release|Any CPU
 		{F68B8CF2-2E90-44EB-A065-929A20A1212A}.Release|x86.ActiveCfg = Release|Any CPU
 		{F68B8CF2-2E90-44EB-A065-929A20A1212A}.Release|x86.Build.0 = Release|Any CPU
+		{102B5477-9F97-4694-A21F-368323368B86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{102B5477-9F97-4694-A21F-368323368B86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{102B5477-9F97-4694-A21F-368323368B86}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{102B5477-9F97-4694-A21F-368323368B86}.Debug|x86.Build.0 = Debug|Any CPU
+		{102B5477-9F97-4694-A21F-368323368B86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{102B5477-9F97-4694-A21F-368323368B86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{102B5477-9F97-4694-A21F-368323368B86}.Release|x86.ActiveCfg = Release|Any CPU
+		{102B5477-9F97-4694-A21F-368323368B86}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
