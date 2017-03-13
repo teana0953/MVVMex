@@ -1,4 +1,6 @@
 ﻿using BlogReader.Models;
+using CH07.CookbookMVVM;
+using CH07.CookbookMVVM.Commands;
 using CH07.CookbookMVVM.ViewModels;
 using System;
 using System.Collections.Generic;
@@ -7,10 +9,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
+using System.Windows.Input;
 
 namespace BlogReader.ViewModels
 {
-    class MainViewModel : ViewModelBase<IEnumerable<Blog>>
+    public class MainViewModel : ViewModelBase<IEnumerable<Blog>>
     {
         BlogViewModel _selectedBlog;
 
@@ -18,7 +21,7 @@ namespace BlogReader.ViewModels
         {
             get
             {
-                return Model.Select(blog => new BlogViewModel { Model = blog });
+                return Model.Select(blog => new BlogViewModel(blog,this));
             }
         }
 
@@ -40,10 +43,33 @@ namespace BlogReader.ViewModels
             }
         }
 
+        ICommand _undoCommand, _redoCommand;
+        public UndoManager UndoManager { get; private set; }
+        public ICommand UndoCommand
+        {
+            get
+            {
+                return _undoCommand ?? (_undoCommand =
+                    new RelayCommand(() => UndoManager.Undo(),
+                    () => UndoManager.CanUndo));
+            }
+        }
+
+        public ICommand RedoCommand
+        {
+            get
+            {
+                return _redoCommand ?? (_redoCommand =
+                   new RelayCommand(() => UndoManager.Redo(),
+                   () => UndoManager.CanRedo));
+            }
+        }
+
         // constructor
         public MainViewModel(IEnumerable<Blog> blogs)
         {
             Model = new ObservableCollection<Blog>(blogs);
+            UndoManager = new UndoManager();
         }
     }
 }

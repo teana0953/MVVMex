@@ -55,6 +55,7 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Commands\NewBlogPostCommand.cs" />
     <Compile Include="ViewModels\BlogCommentViewModel.cs" />
     <Compile Include="ViewModels\BloggerViewModel.cs" />
     <Compile Include="ViewModels\BlogPostViewModel.cs" />

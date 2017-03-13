@@ -22,4 +22,15 @@ namespace CH07.CookbookMVVM.ViewModels
             set { SetProperty(ref _model, value); }
         }
     }
+
+    public abstract class ViewModelBase<TModel, TParentVM>: ViewModelBase<TModel>
+    {
+        public ViewModelBase(TModel model = default(TModel), TParentVM parentVM = default(TParentVM))
+        {
+            Model = model;
+            Parent = parentVM;
+        }
+
+        public TParentVM Parent { get; set; }
+    }
 }
