@@ -25,3 +25,6 @@ C:\Users\tina.liang\Documents\Visual Studio 2015\Projects\WPF\MVVM\MVVMex\CH07.R
 C:\Users\tina.liang\Documents\Visual Studio 2015\Projects\WPF\MVVM\MVVMex\CH07.RoutedCommands\obj\x86\Debug\CH07.RoutedCommands.csproj.GenerateResource.Cache
 C:\Users\tina.liang\Documents\Visual Studio 2015\Projects\WPF\MVVM\MVVMex\CH07.RoutedCommands\obj\x86\Debug\CH07.RoutedCommands.exe
 C:\Users\tina.liang\Documents\Visual Studio 2015\Projects\WPF\MVVM\MVVMex\CH07.RoutedCommands\obj\x86\Debug\CH07.RoutedCommands.pdb
+C:\Git\MVVMex\CH07.RoutedCommands\bin\Debug\CH07.RoutedCommands.exe.config
+C:\Git\MVVMex\CH07.RoutedCommands\obj\x86\Debug\CH07.RoutedCommands.exe
+C:\Git\MVVMex\CH07.RoutedCommands\obj\x86\Debug\CH07.RoutedCommands.pdb

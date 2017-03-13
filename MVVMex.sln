@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH07.CookbookMVVM", "CH07.C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogReader", "BlogReader\BlogReader.csproj", "{102B5477-9F97-4694-A21F-368323368B86}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogReaderUnitTest", "BlogReaderUnitTest\BlogReaderUnitTest.csproj", "{B8967854-EDE3-4DDC-B44D-62A688C6BB95}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,14 @@ Global
 		{102B5477-9F97-4694-A21F-368323368B86}.Release|Any CPU.Build.0 = Release|Any CPU
 		{102B5477-9F97-4694-A21F-368323368B86}.Release|x86.ActiveCfg = Release|Any CPU
 		{102B5477-9F97-4694-A21F-368323368B86}.Release|x86.Build.0 = Release|Any CPU
+		{B8967854-EDE3-4DDC-B44D-62A688C6BB95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8967854-EDE3-4DDC-B44D-62A688C6BB95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8967854-EDE3-4DDC-B44D-62A688C6BB95}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B8967854-EDE3-4DDC-B44D-62A688C6BB95}.Debug|x86.Build.0 = Debug|Any CPU
+		{B8967854-EDE3-4DDC-B44D-62A688C6BB95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8967854-EDE3-4DDC-B44D-62A688C6BB95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8967854-EDE3-4DDC-B44D-62A688C6BB95}.Release|x86.ActiveCfg = Release|Any CPU
+		{B8967854-EDE3-4DDC-B44D-62A688C6BB95}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

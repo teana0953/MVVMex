@@ -50,6 +50,7 @@
   <ItemGroup>
     <Compile Include="Commands\EventsToCommandsMapper.cs" />
     <Compile Include="Commands\RelayCommand.cs" />
+    <Compile Include="IDialogService.cs" />
     <Compile Include="ObservableObject.cs" />
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>

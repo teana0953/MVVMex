@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace BlogReader.Models
 {
-    class BlogComment:ObservableObject
+    public class BlogComment:ObservableObject
     {
         string _name;
         string _text;

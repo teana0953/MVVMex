@@ -5,3 +5,10 @@ C:\Users\tina.liang\Documents\Visual Studio 2015\Projects\WPF\MVVM\MVVMex\CH07.C
 C:\Users\tina.liang\Documents\Visual Studio 2015\Projects\WPF\MVVM\MVVMex\CH07.CookbookMVVM\obj\Debug\CH07.CookbookMVVM.csproj.GenerateResource.Cache
 C:\Users\tina.liang\Documents\Visual Studio 2015\Projects\WPF\MVVM\MVVMex\CH07.CookbookMVVM\obj\Debug\CH07.CookbookMVVM.dll
 C:\Users\tina.liang\Documents\Visual Studio 2015\Projects\WPF\MVVM\MVVMex\CH07.CookbookMVVM\obj\Debug\CH07.CookbookMVVM.pdb
+C:\Git\MVVMex\CH07.CookbookMVVM\bin\Debug\CH07.CookbookMVVM.dll
+C:\Git\MVVMex\CH07.CookbookMVVM\bin\Debug\CH07.CookbookMVVM.pdb
+C:\Git\MVVMex\CH07.CookbookMVVM\obj\Debug\CH07.CookbookMVVM.csprojResolveAssemblyReference.cache
+C:\Git\MVVMex\CH07.CookbookMVVM\obj\Debug\CH07.CookbookMVVM.Properties.Resources.resources
+C:\Git\MVVMex\CH07.CookbookMVVM\obj\Debug\CH07.CookbookMVVM.csproj.GenerateResource.Cache
+C:\Git\MVVMex\CH07.CookbookMVVM\obj\Debug\CH07.CookbookMVVM.dll
+C:\Git\MVVMex\CH07.CookbookMVVM\obj\Debug\CH07.CookbookMVVM.pdb

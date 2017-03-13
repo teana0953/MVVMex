@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace BlogReader.Models
 {
-    class Blogger:ObservableObject
+    public class Blogger:ObservableObject
     {
         string _name;
         string _email;

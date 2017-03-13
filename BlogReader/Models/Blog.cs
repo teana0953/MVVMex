@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace BlogReader.Models
 {
-    class Blog:ObservableObject
+    public class Blog:ObservableObject
     {
         Blogger _blogger;
         ObservableCollection<BlogPost> _posts = new ObservableCollection<BlogPost>();

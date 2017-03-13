@@ -15,14 +15,14 @@ namespace CH07.CookbookMVVM.Commands
             return true;
         }
 
-        readonly Action<T> _execute;
-        readonly Func<T, bool> _canExecute;
+        readonly Action<T> _execute;        // Take one parameter of type T and return void 
+        readonly Func<T, bool> _canExecute; // Take one parameter of type T and return a value of type TResult
         public RelayCommand(Action<T> execute, Func<T, bool> canExecute = null)
         {
             if (execute == null)
                 throw new ArgumentNullException("execute");
             _execute = execute;
-            _canExecute = canExecute ?? CanExecute;
+            _canExecute = canExecute ?? CanExecute;     // 若使用者未指定 canExecute 預設為 CanExecute(return true)
         }
 
         public event EventHandler CanExecuteChanged

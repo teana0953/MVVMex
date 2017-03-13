@@ -7,6 +7,20 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Horizontal" Panel.ZIndex="1000">
+            <TextBlock Text="Select blog to read:" VerticalAlignment="Center" Margin="2"/>
+            <ComboBox ItemsSource="{Binding Blogs}" Margin="10,0,0,0" DisplayMemberPath="Model.BlogTitle" Width="170" SelectedItem="{Binding SelectedBlog, Mode=TwoWay}">
+            </ComboBox>
+            <Canvas Visibility="{Binding IsSelectedBlog}" >
+                <Expander Margin="10,0,0,0" VerticalAlignment="Center" ExpandDirection="Down" Header="Blog Information" 
+                          ContentTemplate="{StaticResource bloggerTemplate}" Content="{Binding SelectedBlog.Blogger}">
+                </Expander>
+            </Canvas>
+        </StackPanel>
+        <ContentControl Content="{Binding SelectedBlog}" ContentTemplate="{StaticResource blogTemplate}" Grid.Row="1" Visibility="{Binding IsSelectedBlog}" Margin="2,10,2,2" />
     </Grid>
 </Window>

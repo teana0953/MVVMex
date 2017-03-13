@@ -1,0 +1,11 @@
+C:\Git\MVVMex\BlogReaderUnitTest\bin\Debug\BlogReaderUnitTest.dll
+C:\Git\MVVMex\BlogReaderUnitTest\bin\Debug\BlogReaderUnitTest.pdb
+C:\Git\MVVMex\BlogReaderUnitTest\bin\Debug\BlogReader.exe
+C:\Git\MVVMex\BlogReaderUnitTest\bin\Debug\CH07.CookbookMVVM.dll
+C:\Git\MVVMex\BlogReaderUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Git\MVVMex\BlogReaderUnitTest\bin\Debug\BlogReader.pdb
+C:\Git\MVVMex\BlogReaderUnitTest\bin\Debug\CH07.CookbookMVVM.pdb
+C:\Git\MVVMex\BlogReaderUnitTest\bin\Debug\zh-Hant\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Git\MVVMex\BlogReaderUnitTest\obj\Debug\BlogReaderUnitTest.csprojResolveAssemblyReference.cache
+C:\Git\MVVMex\BlogReaderUnitTest\obj\Debug\BlogReaderUnitTest.dll
+C:\Git\MVVMex\BlogReaderUnitTest\obj\Debug\BlogReaderUnitTest.pdb
